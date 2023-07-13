@@ -1,5 +1,5 @@
 # iOS/macOS penetration testing cheatsheet
-
+**My tutorial should be used for study and security issues, I am not responsible for bad intentions, but I leave the caveat that there will be penalties.**
 | Action | macOS | Linux | Win | iOS w/JB |
 | --- | --- | --- | --- | --- |
 | `MobSF` | [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | --- |
@@ -162,8 +162,6 @@ NB! in some cases you may face with lack of libraries, do not replace anything m
 | `Dynamic analysis of iOS apps w/o Jailbreak` | [Article En](https://medium.com/@ansjdnakjdnajkd/dynamic-analysis-of-ios-apps-wo-jailbreak-1481ab3020d8) [Article RU](https://habrahabr.ru/company/dsec/blog/339952/) & [Slides](https://dsec.ru/upload/volgactf_dyn_ios_analysis_wo_jb.pdf) |
 | `Ro(o)tten Apples Vulnerability Heaven in the iOS Sandbox` | [Slides](http://gsec.hitb.org/materials/sg2017/D2%20-%20Adam%20Donenfeld%20-%20Ro(o)tten%20Apples%20-%20Vulnerability%20Heaven%20in%20the%20iOS%20Sandbox.pdf) |
 | `Light and Dark side of Code Instrumentation` | [Slides](http://www.data.proidea.org.pl/confidence/10edycja/materialy/prezentacje/DmitriyEvdokimov.pdf) |
-| `Комбайны безопасности для iOS и Android` | [Slides](https://dsec.ru/upload/medialibrary/e76/e76656cd8b92aa5021cb1a0662d9859f.pdf) |
-
 
 
 Author: [@ansjdnakjdnajkd](https://twitter.com/ansjdnakjdnajkd)
